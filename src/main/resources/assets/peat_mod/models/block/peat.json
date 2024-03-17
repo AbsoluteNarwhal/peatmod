@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "peat_mod:block/peat",
+    "up": "peat_mod:block/peat",
+    "north": "peat_mod:block/peat",
+    "east": "peat_mod:block/peat",
+    "south": "peat_mod:block/peat",
+    "west": "peat_mod:block/peat",
+    "particle": "peat_mod:block/peat"
+  },
+  "render_type": "solid"
+}
